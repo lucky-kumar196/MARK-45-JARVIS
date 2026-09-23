@@ -251,20 +251,13 @@ The avatar's visual features are rendered using software rendering, allowing the
 
 ---
 
-## 📄 License
-
-Add your preferred project license here, for example:
-
-```text
-MIT License
-```
 
 ---
 
 ## 👨‍💻 Author
 
 **Lucky**  
-**SRJ Web Sto**
+**SRJ Web Sto(srjwebsto.site.je)**
 
 Developed and maintained as the **MARK-45-JARVIS — SRJ Web Sto Assistant**.
 

@@ -1,3 +1,27 @@
+> 🚨 **NEED `setup.py`? EMAIL `luckykumarprajapat5@gmail.com` — SUBJECT & MESSAGE BELOW 👇**
+
+## 📩 Request `setup.py`
+
+If you need the `setup.py` installer file for **MARK-45-JARVIS**, send an email to **luckykumarprajapat5@gmail.com** using the copy-paste details below.
+
+**Email Subject:**
+```text
+Request for MARK-45-JARVIS setup.py
+```
+
+**Email Message:**
+```text
+Hello Lucky,
+
+I need the setup.py file for the MARK-45-JARVIS — SRJ Web Sto Assistant project.
+
+Please send me the setup.py file so I can complete the project setup and installation.
+
+Thank you.
+```
+
+---
+
 # ✨ MARK-45-JARVIS — SRJ Web Sto Assistant
 
 **Created & Maintained by:** Lucky  
